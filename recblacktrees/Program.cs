@@ -7,20 +7,28 @@ namespace recblacktrees
         static void Main(string[] args)
         {
             RB tree = new RB();
-            tree.Insert(5);
-            tree.Insert(3);
-            tree.Insert(7);
-            tree.Insert(1);
             tree.Insert(9);
-            tree.Insert(-1);
+            tree.Insert(1);
+            tree.Insert(12);
+            tree.Insert(0);
+            tree.Insert(4);
             tree.Insert(11);
-            tree.Insert(6);
+            tree.Insert(18);
+            tree.Insert(2);
+            tree.Insert(7);
+            tree.Insert(14);
+            tree.Insert(19);
+            tree.Insert(5);
+            tree.Insert(13);
+            tree.Insert(15);
+            
+            // adding 16 here 
+            tree.Insert(16);
+
             tree.DisplayTree();
-            tree.Delete(-1);
-            tree.DisplayTree();
-            tree.Delete(9);
-            tree.DisplayTree();
-            tree.Delete(5);
+            
+            //deleting 1 here
+            tree.Delete(1);
             tree.DisplayTree();
             Console.ReadLine();
         }
@@ -95,6 +103,9 @@ namespace recblacktrees
                 X.parent = Y;
             }
 
+            Console.WriteLine("After Left rotation the trees look like : !");
+            this.DisplayTree();
+
         }
         /// <summary>
         /// Rotate Right
@@ -132,6 +143,10 @@ namespace recblacktrees
             {
                 Y.parent = X;
             }
+
+            Console.WriteLine("After Right rotation the trees look like : !");
+            this.DisplayTree();
+
         }
         /// <summary>
         /// Display Tree
@@ -147,6 +162,8 @@ namespace recblacktrees
             {
                 InOrderDisplay(root);
             }
+
+            Console.WriteLine("");
         }
         /// <summary>
         /// Find item in the tree
@@ -179,12 +196,12 @@ namespace recblacktrees
             }
             if (isFound)
             {
-                Console.WriteLine("{0} was found", key);
+                Console.WriteLine("{0} is in the tree ", key);
                 return temp;
             }
             else
             {
-                Console.WriteLine("{0} not found", key);
+                Console.WriteLine("{0} is not in the tree", key);
                 return null;
             }
         }
