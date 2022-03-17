@@ -1,0 +1,14 @@
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\bin\Debug\netcoreapp3.1\recblacktrees.exe
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\bin\Debug\netcoreapp3.1\recblacktrees.deps.json
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\bin\Debug\netcoreapp3.1\recblacktrees.runtimeconfig.json
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\bin\Debug\netcoreapp3.1\recblacktrees.runtimeconfig.dev.json
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\bin\Debug\netcoreapp3.1\recblacktrees.dll
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\bin\Debug\netcoreapp3.1\recblacktrees.pdb
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.csproj.AssemblyReference.cache
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.AssemblyInfoInputs.cache
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.AssemblyInfo.cs
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.csproj.CoreCompileInputs.cache
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.dll
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.pdb
+C:\Users\bharathkumar.puram\source\repos\recblacktrees\recblacktrees\obj\Debug\netcoreapp3.1\recblacktrees.genruntimeconfig.cache
